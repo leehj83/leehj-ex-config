@@ -3,4 +3,4 @@ server:
 
 ---
 test:
-  str: change-configtest-dev
+  str: configtest-dev
